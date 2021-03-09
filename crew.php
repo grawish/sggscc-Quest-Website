@@ -22,13 +22,22 @@ navbar('','','','','active','');
                 <h2 align="center" class="text-info">Executive Members</h2>
                 <br>
                 <div class="row">
-                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/scenery/image1.webp"><img class="img-thumbnail img-fluid image" src="assets/img/scenery/1.webp"></a></div>
-                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/scenery/image4.webp"><img class="img-thumbnail img-fluid image" src="assets/img/scenery/2.webp"></a></div>
-                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/scenery/image6.webp"><img class="img-thumbnail img-fluid image" src="assets/img/scenery/3.webp"></a></div>
-                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/scenery/image5.webp"><img class="img-thumbnail img-fluid image" src="assets/img/scenery/JS1.webp"></a></div>
-                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/scenery/image1.webp"><img class="img-thumbnail img-fluid image" src="assets/img/scenery/JS2.webp"></a></div>
-                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/scenery/image4.webp"><img class="img-thumbnail img-fluid image" src="assets/img/scenery/JS3.webp"></a></div>
-                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/scenery/image6.webp"><img class="img-thumbnail img-fluid image" src="assets/img/scenery/TRE.webp"></a></div>
+                    <div class="col-md-6 col-lg-3 item"><a class="lightbox" href="assets/img/scenery/EM1.webp"><img class="img-thumbnail img-fluid image" src="assets/img/scenery/EM1.webp"></a></div>
+                    <div class="col-md-6 col-lg-3 item"><a class="lightbox" href="assets/img/scenery/EM2.webp"><img class="img-thumbnail img-fluid image" src="assets/img/scenery/EM2.webp"></a></div>
+                    <div class="col-md-6 col-lg-3 item"><a class="lightbox" href="assets/img/scenery/EM3.webp"><img class="img-thumbnail img-fluid image" src="assets/img/scenery/EM3.webp"></a></div>
+                    <div class="col-md-6 col-lg-3 item"><a class="lightbox" href="assets/img/scenery/EM4.webp"><img class="img-thumbnail img-fluid image" src="assets/img/scenery/EM4.webp"></a></div>
+                    <div class="col-md-6 col-lg-3 item"><a class="lightbox" href="assets/img/scenery/EM5.webp"><img class="img-thumbnail img-fluid image" src="assets/img/scenery/EM5.webp"></a></div>
+                    <div class="col-md-6 col-lg-3 item"><a class="lightbox" href="assets/img/scenery/EM6.webp"><img class="img-thumbnail img-fluid image" src="assets/img/scenery/EM6.webp"></a></div>
+                    <div class="col-md-6 col-lg-3 item"><a class="lightbox" href="assets/img/scenery/EM7.webp"><img class="img-thumbnail img-fluid image" src="assets/img/scenery/EM7.webp"></a></div>
+                    <div class="col-md-6 col-lg-3 item"><a class="lightbox" href="assets/img/scenery/EM8.webp"><img class="img-thumbnail img-fluid image" src="assets/img/scenery/EM8.webp"></a></div>
+                </div>
+                <hr style="border: none; height: 1px; color: #333; background-color: #333;">
+                <h2 align="center" class="text-info">Advisory</h2>
+                <br>
+                <div class="row">
+                    <div class="col-md-12 col-lg-4 item"><a class="lightbox" href="assets/img/scenery/Adv1.webp"><img class="img-thumbnail img-fluid image" src="assets/img/scenery/Adv1.webp"></a></div>
+                    <div class="col-md-12 col-lg-4 item"><a class="lightbox" href="assets/img/scenery/Adv2.webp"><img class="img-thumbnail img-fluid image" src="assets/img/scenery/Adv2.webp"></a></div>
+                    <div class="col-md-12 col-lg-4 item"><a class="lightbox" href="assets/img/scenery/Adv3.webp"><img class="img-thumbnail img-fluid image" src="assets/img/scenery/Adv3.webp"></a></div>
                 </div>
                 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FKolkata&amp;src=MDljODJmbXI2OG5xOGYwbGZ2ZGxjOTdnMTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60&amp;showTitle=0" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
             </div>

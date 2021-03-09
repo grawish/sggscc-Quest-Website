@@ -58,9 +58,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                 $slug = ($slug . '-' . $numHits);
             }
             $sql = 'INSERT INTO posts(slug, title, aid, body, coverimage) VALUES (\'' . $slug . '\', \'' . $title . '\',\'' . $aid . '\', \'' . $body . '\', \'' . $_FILES['image']['name'] . '\')';
-            echo $sql;
             $run = connect()->query($sql);
-            echo $run;
             $alert_str = $alert_str . '\n' . "The Post has been Published.";
         } else {
             $alert_str = $alert_str . '\n' . "Sorry, there was an error uploading your file.";
@@ -69,7 +67,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 } else {
     ?>
     <script>
-        // window.open('index.php', '_self')
+        window.open('index.php', '_self')
     </script>
     <?php
 }
@@ -78,5 +76,5 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     alert("<?php if (isset($alert_str)) {
         echo $alert_str;
     } ?>");
-    // window.open('index.php', '_self');
+    window.open('index.php', '_self');
 </script>

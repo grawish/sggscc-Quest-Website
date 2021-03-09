@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23c8fa02-399e-449e-9ed7-1c8bf60bcf7f" name="Default Changelist" comment="errors solved" />
+    <list default="true" id="23c8fa02-399e-449e-9ed7-1c8bf60bcf7f" name="Default Changelist" comment="2nd commit">
+      <change afterPath="$PROJECT_DIR$/assets/img/scenery/Adv1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/scenery/Adv2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/scenery/Adv3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/scenery/EM1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/scenery/EM2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/scenery/EM3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/scenery/EM4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/scenery/EM5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/scenery/EM6.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/scenery/EM7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/scenery/EM8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/scenery/GS.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/scenery/JS1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/scenery/JS2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/scenery/President.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/scenery/TRE.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/scenery/Vice.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/img0.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/img1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c587ffa2-e465-44f9-bb23-a5857de56917.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c587ffa2-e465-44f9-bb23-a5857de56917/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adminstration/addpost.php" beforeDir="false" afterPath="$PROJECT_DIR$/adminstration/addpost.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/scenery/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/scenery/image3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/scenery/image4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/scenery/image5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/scenery/image6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crew.php" beforeDir="false" afterPath="$PROJECT_DIR$/crew.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +54,7 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="Xampp PHP" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1jsbatTkVpv2x5hTCat3nwBPv6o" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -33,12 +66,11 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DatabaseDriversLRU" value="mysql&#10;mariadb" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../php/php.exe" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -46,7 +78,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -109,7 +141,11 @@
       <workItem from="1615133653325" duration="67000" />
       <workItem from="1615133722359" duration="101000" />
       <workItem from="1615133959373" duration="678000" />
-      <workItem from="1615143029452" duration="2189000" />
+      <workItem from="1615143029452" duration="2828000" />
+      <workItem from="1615218801705" duration="6373000" />
+      <workItem from="1615228633149" duration="2913000" />
+      <workItem from="1615299918456" duration="1378000" />
+      <workItem from="1615306016955" duration="351000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1606375551164</created>
@@ -146,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610385667096</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2nd commit">
+      <created>1615145566217</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615145566217</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +214,8 @@
     <MESSAGE value="add post working hurray!!" />
     <MESSAGE value="backend work done just some frontend tweaks left" />
     <MESSAGE value="errors solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="errors solved" />
+    <MESSAGE value="2nd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

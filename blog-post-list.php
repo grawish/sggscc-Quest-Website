@@ -9,9 +9,8 @@ navbar('', 'active', '', '', '', '');
     <section class="clean-block clean-blog-list dark">
         <div class="container">
             <div class="block-heading">
-                <h2 class="text-info">Blog Post List</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna, dignissim nec auctor in,
-                    mattis vitae leo.</p>
+                <h2 class="text-info">Blog Posts</h2>
+
             </div>
             <div class="block-content">
                 <?php
