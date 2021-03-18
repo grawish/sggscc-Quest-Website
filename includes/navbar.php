@@ -10,7 +10,6 @@ function navbar($home = "", $blog = "", $contact = "", $about_us = "", $the_crew
                 <li class="nav-item"><a class="nav-link ' . $memories . '" href="memories.php">Memories</a></li>
                 <li class="nav-item"><a class="nav-link ' . $the_crew . '" href="crew.php">The Crew</a></li>
                 <li class="nav-item"><a class="nav-link ' . $blog . '" href="blog-post-list.php">Blog</a></li>
-                <li class="nav-item"><a class="nav-link ' . $about_us . '" href="about-us.php">About Us</a></li>
                 <li class="nav-item"><a class="nav-link ' . $contact . '" href="contact-us.php">Contact Us</a></li>
             </ul>
         </div>

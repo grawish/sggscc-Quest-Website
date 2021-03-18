@@ -11,22 +11,22 @@ navbar('','','','','','active');
                     <p>The Only Sin in Quizology is being Stupid</p>
                 </div>
                 <div class="row">
-                    <div class="col-md-12 col-lg-6 item"><a class="lightbox" href="assets/img/memories/1.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/1.webp"></a></div>
-                    <div class="col-md-12 col-lg-6 item"><a class="lightbox" href="assets/img/memories/2.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/2.webp"></a></div>
-                    <div class="col-md-12 col-lg-6 item"><a class="lightbox" href="assets/img/memories/3.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/3.webp"></a></div>
-                    <div class="col-md-12 col-lg-6 item"><a class="lightbox" href="assets/img/memories/4.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/4.webp"></a></div>
-                    <div class="col-md-12 col-lg-6 item"><a class="lightbox" href="assets/img/memories/5.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/5.webp"></a></div>
-                    <div class="col-md-12 col-lg-6 item"><a class="lightbox" href="assets/img/memories/6.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/6.webp"></a></div>
-                    <div class="col-md-12 col-lg-6 item"><a class="lightbox" href="assets/img/memories/7.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/7.webp"></a></div>
-                    <div class="col-md-12 col-lg-6 item"><a class="lightbox" href="assets/img/memories/8.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/8.webp"></a></div>
-                    <div class="col-md-12 col-lg-6 item"><a class="lightbox" href="assets/img/memories/9.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/9.webp"></a></div>
-                    <div class="col-md-12 col-lg-6 item"><a class="lightbox" href="assets/img/memories/10.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/10.webp"></a></div>
-                    <div class="col-md-12 col-lg-6 item"><a class="lightbox" href="assets/img/memories/11.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/11.webp"></a></div>
-                    <div class="col-md-12 col-lg-6 item"><a class="lightbox" href="assets/img/memories/12.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/12.webp"></a></div>
-                    <div class="col-md-12 col-lg-6 item"><a class="lightbox" href="assets/img/memories/13.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/13.webp"></a></div>
-                    <div class="col-md-12 col-lg-6 item"><a class="lightbox" href="assets/img/memories/14.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/14.webp"></a></div>
-                    <div class="col-md-12 col-lg-6 item"><a class="lightbox" href="assets/img/memories/15.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/15.webp"></a></div>
-                    <div class="col-md-12 col-lg-6 item"><a class="lightbox" href="assets/img/memories/16.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/16.webp"></a></div>
+                    <div class="col-md-12 col-lg-6 p-5 item"><a class="lightbox" href="assets/img/memories/1.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/1.webp"></a></div>
+                    <div class="col-md-12 col-lg-6 p-5 item"><a class="lightbox" href="assets/img/memories/2.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/2.webp"></a></div>
+                    <div class="col-md-12 col-lg-6 p-5 item"><a class="lightbox" href="assets/img/memories/3.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/3.webp"></a></div>
+                    <div class="col-md-12 col-lg-6 p-5 item"><a class="lightbox" href="assets/img/memories/4.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/4.webp"></a></div>
+                    <div class="col-md-12 col-lg-6 p-5 item"><a class="lightbox" href="assets/img/memories/5.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/5.webp"></a></div>
+                    <div class="col-md-12 col-lg-6 p-5 item"><a class="lightbox" href="assets/img/memories/6.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/6.webp"></a></div>
+                    <div class="col-md-12 col-lg-6 p-5 item"><a class="lightbox" href="assets/img/memories/7.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/7.webp"></a></div>
+                    <div class="col-md-12 col-lg-6 p-5 item"><a class="lightbox" href="assets/img/memories/8.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/8.webp"></a></div>
+                    <div class="col-md-12 col-lg-6 p-5 item"><a class="lightbox" href="assets/img/memories/9.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/9.webp"></a></div>
+                    <div class="col-md-12 col-lg-6 p-5 item"><a class="lightbox" href="assets/img/memories/10.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/10.webp"></a></div>
+                    <div class="col-md-12 col-lg-6 p-5 item"><a class="lightbox" href="assets/img/memories/11.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/11.webp"></a></div>
+                    <div class="col-md-12 col-lg-6 p-5 item"><a class="lightbox" href="assets/img/memories/12.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/12.webp"></a></div>
+                    <div class="col-md-12 col-lg-6 p-5 item"><a class="lightbox" href="assets/img/memories/13.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/13.webp"></a></div>
+                    <div class="col-md-12 col-lg-6 p-5 item"><a class="lightbox" href="assets/img/memories/14.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/14.webp"></a></div>
+                    <div class="col-md-12 col-lg-6 p-5 item"><a class="lightbox" href="assets/img/memories/15.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/15.webp"></a></div>
+                    <div class="col-md-12 col-lg-6 p-5 item"><a class="lightbox" href="assets/img/memories/16.webp"><img class="img-thumbnail img-fluid image" src="assets/img/memories/16.webp"></a></div>
                 </div>
             </div>
         </section>

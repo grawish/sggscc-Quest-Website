@@ -40,6 +40,7 @@ function head($title,$admin=false)
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css">
     <link rel="stylesheet" href="assets/css/styles.min.css">
+    <link rel="stylesheet" href="assets/css/Card-hover-affect-2.css">
     <script src="https://use.fontawesome.com/4cf173f59d.js"></script>
 </head>
 
