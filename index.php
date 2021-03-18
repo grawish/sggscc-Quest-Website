@@ -10,9 +10,9 @@ navbar('active', '', '', '', '', '');
     </style>
     <main class="page landing-page">
         <section class="clean-block clean-hero"
-                 style="min-height: 609px; color: rgba(9,162,255,0);background: url('assets/img/tech/New-blog-graphic.jpg') center / cover no-repeat;border-color: rgba(9,162,255,0);">
+                 style="min-height: 609px; color: rgba(9,162,255,0);background: url('assets/img/tech/bg.webp') center / cover no-repeat;border-color: rgba(9,162,255,0);">
             <div class="text"><img alt="Logo" style="padding: 10px;margin-bottom: 18px;width: 28%;"
-                                   src="assets/img/PicsArt_07-30-07.51.51.png">
+                                   src="assets/img/logo.png">
                 <h2>The Quizzing Society of SGGSCC</h2>
                 <p>THE ONLY SIN IN QUIZOLOGY IS BEING STUPID.<br></p>
             </div>

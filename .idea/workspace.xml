@@ -1,46 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23c8fa02-399e-449e-9ed7-1c8bf60bcf7f" name="Default Changelist" comment="Galatiyan Sudhari Gayin">
-      <change afterPath="$PROJECT_DIR$/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site.webmanifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/htdocs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/htdocs.iml" afterDir="false" />
+    <list default="true" id="23c8fa02-399e-449e-9ed7-1c8bf60bcf7f" name="Default Changelist" comment="images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/avatars/dbfa60_1bfca9584002447796c075a12c5f760a_mv2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/avatars/dbfa60_1bfca9584002447796c075a12c5f760a_mv2.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/avatars/dbfa60_a1e271d6106f43c3af6276185338a38f_mv2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/avatars/dbfa60_a1e271d6106f43c3af6276185338a38f_mv2.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/avatars/dbfa60_d898fcd3604e41399bd82075540817f8_mv2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/avatars/dbfa60_d898fcd3604e41399bd82075540817f8_mv2.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scenery/1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/scenery/1.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scenery/2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/scenery/2.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scenery/3.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/scenery/3.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scenery/4.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/scenery/4.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scenery/5.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/scenery/5.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scenery/Adv1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/scenery/Adv1.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scenery/Adv2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/scenery/Adv2.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scenery/Adv3.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/scenery/Adv3.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scenery/EM1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/scenery/EM1.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scenery/EM2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/scenery/EM2.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scenery/EM3.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/scenery/EM3.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scenery/EM4.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/scenery/EM4.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scenery/EM5.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/scenery/EM5.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scenery/EM6.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/scenery/EM6.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scenery/EM7.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/scenery/EM7.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scenery/EM8.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/scenery/EM8.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scenery/GS.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/scenery/GS.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scenery/JS1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/scenery/JS1.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scenery/JS2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/scenery/JS2.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scenery/President.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/scenery/President.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scenery/TRE.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/scenery/TRE.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/scenery/Vice.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/scenery/Vice.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/tech/New-blog-graphic.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/tech/image4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/tech/img1.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/tech/img2.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/tech/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adminstration/test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/PicsArt_07-30-07.51.51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/memories/1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/memories/1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/memories/10.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/memories/10.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/memories/11.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/memories/11.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/memories/12.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/memories/12.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/memories/13.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/memories/13.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/memories/14.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/memories/14.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/memories/15.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/memories/15.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/memories/16.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/memories/16.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/memories/2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/memories/2.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/memories/3.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/memories/3.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/memories/4.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/memories/4.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/memories/5.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/memories/5.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/memories/6.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/memories/6.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/memories/7.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/memories/7.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/memories/8.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/memories/8.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/memories/9.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/memories/9.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,6 +145,7 @@
       <workItem from="1615996700703" duration="725000" />
       <workItem from="1616081656160" duration="5091000" />
       <workItem from="1616088453217" duration="2077000" />
+      <workItem from="1616092122155" duration="71000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1606375551164</created>
@@ -213,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616084886258</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="images">
+      <created>1616091294711</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1616091294711</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,7 +230,8 @@
     <MESSAGE value="errors solved" />
     <MESSAGE value="2nd commit" />
     <MESSAGE value="Galatiyan Sudhari Gayin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Galatiyan Sudhari Gayin" />
+    <MESSAGE value="images" />
+    <option name="LAST_COMMIT_MESSAGE" value="images" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
